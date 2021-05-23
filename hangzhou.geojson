@@ -7,7 +7,7 @@
         "名称": "鲍贝书屋",
         "一杯拿铁": "68 元",
         "评论 (@Mako)": "书屋在西溪湿地邬家港入口，是一座200多年的一个老房子，徽派建筑，老板是作家鲍贝，目前有2 万多本书，有老板自己写的书，收藏的绝版书，古籍，还有意外惊喜，可以翻到作者签名的书，书文史类为主，去年11 月份开业，目前知道的人还不多。",
-        "大众点评链接": "<video controls width='400' height='400' <source src='IMG_7061.MOV'> </video>",
+        "大众点评链接": "<video controls width='400' height='400' autoplay loop muted>  <source src='rabbit320.mp4' type='video/mp4'>   <source src='rabbit320.webm' type='video/webm'> </video>",
         "marker-color": "#50C240",
         "marker-symbol": "library"
       },
